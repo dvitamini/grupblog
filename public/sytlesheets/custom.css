@@ -1,5 +1,5 @@
 .container {
-  width: 960px;
+  width: 710px;
 }
 
 body {
@@ -42,9 +42,6 @@ a:visited {
   color: #069;
 }
 
-.
-.
-.
 /* Navigation */
 
 nav {
@@ -81,7 +78,6 @@ nav ul li a:hover {
   text-decoration: underline;
 }
 
-
 /* Sign up button */
 
 a.signup_button {
@@ -96,8 +92,6 @@ a.signup_button {
   font-weight: bold;
   padding: 20px;
 }
-
-
 /* Round corners */
 
 .round {
@@ -105,7 +99,6 @@ a.signup_button {
   -webkit-border-radius: 10px;
   border-radius:         10px;
 }
-
 footer {
   text-align: center;
   margin-top: 10px;
@@ -117,6 +110,4 @@ footer {
 footer nav {
   float: none;
 }
-nav {
-  float: right;
-}
+
