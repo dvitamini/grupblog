@@ -9,7 +9,7 @@ gem "activemodel", "~> 3.1.0"
 gem "activerecord-sqlserver-adapter", "~> 3.1.1"
 gem "activerecord-postgresql-extensions", "~> 0.0.9"
 gem 'rack', '1.3.3'
-gem 'rake', '0.8.7'
+gem 'rake', '0.9.2'
 gem "will_paginate", "~> 3.0.2"
 
 gem 'sinatra', '1.0'
