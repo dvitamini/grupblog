@@ -36,4 +36,5 @@ group :test do
   gem "ZenTest", "~> 4.6.2"
   gem 'autotest-growl', '0.2.9'
   gem 'factory_girl_rails', '1.0'
+  gem "autotest-notification", "~> 2.3.3"
 end
